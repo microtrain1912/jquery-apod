@@ -312,6 +312,9 @@ main {
   width: 720px;
   margin: 0 auto; }
 
+#apodTitle {
+  color: #19378a; }
+
 #apodImg {
   max-width: 100%; }
 
@@ -327,10 +330,6 @@ div[id^=apod] {
   /* 16:9 */
   padding-top: 25px;
   height: 0; }
-
-#apodDesc {
-  text-align: left;
-  max-width: 50%; }
 
 iframe {
   position: absolute;
